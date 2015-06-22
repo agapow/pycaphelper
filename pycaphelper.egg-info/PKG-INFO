@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pycaphelper
+Version: 0.1dev-r0
+Summary: Utilities for working with PyCap (which is itself or working with REDCap)
+Home-page: http://www.agapow.net/software/pycaphelper
+Author: Paul Agapow
+Author-email: pual@agapow.net
+License: MIT
+Description: PyCap wraps the REST API of the REDCap web database system. This package provides a few extra features, including aseveral scripts for  uploading and backing up the database.
+Keywords: redcap database pycap rest
+Platform: UNKNOWN

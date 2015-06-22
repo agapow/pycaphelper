@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pycaphelper/__init__.py
+pycaphelper.egg-info/PKG-INFO
+pycaphelper.egg-info/SOURCES.txt
+pycaphelper.egg-info/dependency_links.txt
+pycaphelper.egg-info/entry_points.txt
+pycaphelper.egg-info/not-zip-safe
+pycaphelper.egg-info/top_level.txt
